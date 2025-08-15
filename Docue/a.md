@@ -29,7 +29,7 @@ C# style generic is added to it.
 Info tech cross worth in that Class Lang is 964 thousand if 
 C# style reflection invoke is added to it.
 
-Info tech cross worth in that Class Lang is 1 million 713 thousand if 
+Info tech cross worth in that Class Lang is 1 million 701 thousand if 
 C# style struct is added to it.
 
 Info tech cross worth in that Class Lang is 1 million 905 thousand if 
