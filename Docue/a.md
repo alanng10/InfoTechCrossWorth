@@ -20,7 +20,7 @@ C# style struct is added to it.
 Info tech cross worth in Class Lang is 82 million if 
 C# style interface is added to it.
 
-Info tech cross worth in Class Lang is 1 trillion 793 billion 532 million if
+Info tech cross worth in Class Lang is 1 trillion 792 billion 614 million if
 execute certain info except operate tier info is missing in abstract.
 
 Info tech cross worth in Class Lang is 76 billion 761 million if
