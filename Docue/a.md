@@ -43,9 +43,9 @@ C# style interface is added to it.
 Info tech cross worth in ClassB is 1 thousand 042 if
 C# style all generic, reflection invoke, struct and interface is added to it.
 
-Info tech cross worth in Class Lang is 76 billion 741 million if
-execute certain info is missing in abstract.
-This Class Lang is ClassC.
+ClassC is Class Lang that execute certain info is missing in abstract.
+
+Info tech cross worth in ClassC is 76 billion 741 million.
 
 Info tech cross worth in ClassC is 10 million 3 thousand if 
 C# style generic is added to it.
