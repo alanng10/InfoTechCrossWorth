@@ -41,3 +41,6 @@ C# style struct is added to it.
 
 Info tech cross worth in ClassC is 612 thousand if 
 C# style interface is added to it.
+
+Info tech cross worth in ClassC is 3 thousand 754 if
+C# style all generic, reflection invoke, struct and interface is added to it.
