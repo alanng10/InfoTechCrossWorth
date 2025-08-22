@@ -40,7 +40,7 @@ C# style struct is added to it.
 Info tech cross worth in ClassB is 62 thousand if 
 C# style interface is added to it.
 
-Info tech cross worth in ClassB is 1 thousand 042 if
+Info tech cross worth in ClassB is 71 if
 C# style all generic, reflection invoke, struct and interface is added to it.
 
 ClassC is Class Lang that execute certain info is missing in abstract.
