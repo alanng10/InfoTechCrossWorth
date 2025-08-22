@@ -28,16 +28,16 @@ execute certain info except operate tier info is missing in abstract.
 
 Info tech cross worth in Class Lang is 76 billion 741 million if
 execute certain info is missing in abstract.
-This Class Lang is ClassA.
+This Class Lang is ClassC.
 
-Info tech cross worth in ClassA is 10 million 3 thousand if 
+Info tech cross worth in ClassC is 10 million 3 thousand if 
 C# style generic is added to it.
 
-Info tech cross worth in ClassA is 582 thousand if 
+Info tech cross worth in ClassC is 582 thousand if 
 C# style reflection invoke is added to it.
 
-Info tech cross worth in ClassA is 263 thousand if 
+Info tech cross worth in ClassC is 263 thousand if 
 C# style struct is added to it.
 
-Info tech cross worth in ClassA is 612 thousand if 
+Info tech cross worth in ClassC is 612 thousand if 
 C# style interface is added to it.
