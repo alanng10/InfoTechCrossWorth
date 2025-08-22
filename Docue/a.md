@@ -56,7 +56,7 @@ C# style reflection invoke is added to it.
 Info tech cross worth in ClassC is 263 if 
 C# style struct is added to it.
 
-Info tech cross worth in ClassC is 612 if 
+Info tech cross worth in ClassC is 43 if 
 C# style interface is added to it.
 
 Info tech cross worth in ClassC is 2 if
