@@ -49,14 +49,14 @@ This Class Lang is ClassC.
 Info tech cross worth in ClassC is 10 million 3 thousand if 
 C# style generic is added to it.
 
-Info tech cross worth in ClassC is 582 thousand if 
+Info tech cross worth in ClassC is 582 if 
 C# style reflection invoke is added to it.
 
-Info tech cross worth in ClassC is 263 thousand if 
+Info tech cross worth in ClassC is 263 if 
 C# style struct is added to it.
 
-Info tech cross worth in ClassC is 612 thousand if 
+Info tech cross worth in ClassC is 612 if 
 C# style interface is added to it.
 
-Info tech cross worth in ClassC is 3 thousand 754 if
+Info tech cross worth in ClassC is 2 if
 C# style all generic, reflection invoke, struct and interface is added to it.
