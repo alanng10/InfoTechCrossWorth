@@ -37,7 +37,7 @@ C# style reflection invoke is added to it.
 Info tech cross worth in ClassB is 35 thousand if 
 C# style struct is added to it.
 
-Info tech cross worth in ClassB is 62 thousand if 
+Info tech cross worth in ClassB is 993 thousand if 
 C# style interface is added to it.
 
 Info tech cross worth in ClassB is 71 if
