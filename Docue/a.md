@@ -11,6 +11,7 @@ Info tech cross worth base cross unit is 1 abstract of byte.
 The unit is multiply with total share of the byte.
 The multiply is not tagged with the existence of the info tech inner
 processing.
+The multiply is not tagged with the existence of the info tech implem.
 
 Info tech cross worth in Class Lang is
 3 trillion 471 billion 864 million 393 thousand.
