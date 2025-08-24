@@ -4,10 +4,10 @@ Info tech cross has very very high worth.
 
 Class Lang is Class Lang defined by Alan Ng.
 
-Info tech cross worth is quadratic of total abstract opacity,
+Info tech cross worth is quadratic of total class opacity,
 relate to 1 base cross unit.
 
-Info tech cross worth base cross unit is 1 abstract of byte.
+Info tech cross worth base cross unit is 1 class of byte.
 The unit is mul with total share of the byte.
 The mul is not tagged with the existence of the info tech inner
 processing.
