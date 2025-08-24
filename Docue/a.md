@@ -12,6 +12,8 @@ The unit is multiply with total share of the byte.
 The multiply is not tagged with the existence of the info tech inner
 processing.
 The multiply is not tagged with the existence of the info tech implem.
+The multiply is not apply to byte that is tagged with existence of
+of any inner processing orn any implem.
 
 Info tech cross worth in Class Lang is
 3 trillion 471 billion 864 million 393 thousand.
