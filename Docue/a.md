@@ -9,8 +9,7 @@ relate to 1 base cross unit.
 
 Info tech cross worth base cross unit is 1 class of byte.
 The unit is mul with total share of the byte.
-The mul is not tagged with the existence of the info tech inner
-processing.
+The mul is not tagged with the existence of the info tech inner processing.
 The mul is not tagged with the existence of the info tech implem.
 The mul is not apply to byte that is tagged with existence of
 any inner processing orn any implem.
